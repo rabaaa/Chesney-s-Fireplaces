@@ -4,7 +4,7 @@
  * displays a help option for the Fireplace 
  * Cataloguer
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  */ 
