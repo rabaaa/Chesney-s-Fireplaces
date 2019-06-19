@@ -5,7 +5,7 @@
  * This Class displays a Report of all the items
  * and suppliers in the Catalogue.  
  *
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * 
  */
