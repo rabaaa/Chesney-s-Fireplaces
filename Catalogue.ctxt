@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Catalogue
+comment0.text=\r\n\ This\ is\ an\ abstract\ Catalogue\ class\ which\ implements\ CatalogueInterface.\r\n\r\n\ @author\ Rabia\ Nazir,\ Ula,\ Bradley.\r\n\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Catalogue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Catalogue\r\n
+comment2.params=SupplierIdIn
+comment2.target=void\ setSupplierId(int)
+comment2.text=\r\n\ Method\ to\ set\ SupplierId\r\n\ \r\n\ @param\ SupplierIdIn\ ...\ The\ SupplierId\r\n
+comment3.params=
+comment3.target=int\ getSupplierId()
+comment3.text=\r\n\ Method\ to\ get\ a\ SupplierId\r\n\ \r\n\ @return\ The\ SupplierId\ (as\ a\ int)\r\n
+numComments=4

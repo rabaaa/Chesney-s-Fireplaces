@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CatalogueInterface
+comment0.text=\r\n\ This\ is\ a\ CataloueInterface\ class.\r\n\r\n\ @author\ Rabia\ Nazir,\ Ula,\ Bradley.\r\n\ \r\n\ @version\ 1\r\n
+comment1.params=SupplierIdIn
+comment1.target=void\ setSupplierId(int)
+comment1.text=\r\n\ A\ method\ to\ set\ and\ get\ supplier\ id\r\n\r\n\ @param\ \ supplierIdIn\ \ \ \r\n\ @return\ \ \ \r\n
+comment2.params=
+comment2.target=int\ getSupplierId()
+numComments=3
