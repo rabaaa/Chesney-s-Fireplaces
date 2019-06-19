@@ -3,7 +3,7 @@
  *This class creates an Initial Log In Screen (GUI-based) object.
  *A LogInScreen object is created in the Home Screen Class.
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  * 
