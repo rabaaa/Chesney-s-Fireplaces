@@ -9,7 +9,7 @@
  * Features are also provided to allow the user to update and delete
  * item records.
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  *
  * 
  */
