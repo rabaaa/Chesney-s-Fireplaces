@@ -3,7 +3,7 @@
  * The Class handles the screen which allows the
  * user to entry fireplace details for Chensey Fireplaces.
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  * 
