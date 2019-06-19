@@ -1,7 +1,7 @@
 /**
  * This is the Suppliers class which extends Catalogue
  *
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  */
