@@ -4,7 +4,7 @@
  * The Class handles the screen which allows the
  * user to enter supplier details for Chesney Fireplaces.
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  * 
