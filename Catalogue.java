@@ -2,7 +2,7 @@
 /**
  * This is an abstract Catalogue class which implements CatalogueInterface.
  *
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  */
