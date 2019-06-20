@@ -5,7 +5,7 @@
  * to interact with the database javaassignment created in
  * MySQL.
  * 
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * @version 1
  * 
  * 
