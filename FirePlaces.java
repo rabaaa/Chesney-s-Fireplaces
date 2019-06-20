@@ -2,7 +2,7 @@
 /**
  * This is the FirePlaces class which extends Catalogue.
  *
- * @author Rabia Nazir, Ula, Bradley.
+ * @author Rabia Nazir.
  * 
  * @version 1
  */
